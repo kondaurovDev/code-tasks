@@ -1,0 +1,16 @@
+{
+  "name": "code-tasks",
+  "version": "1.0.0",
+  "description": "Задачи для практики live coding",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^3.0.0"
+  }
+}
